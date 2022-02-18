@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-04-01 
 inline: true
 ---
 
-A simple inline announcement.
+<a href="register">Releasing the FFSVC 2022 evaluation plan and starting the registration</a> :sparkles: :smile:

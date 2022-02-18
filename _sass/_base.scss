@@ -563,3 +563,14 @@ html.transition *:after {
   font-size: 0.875rem;
   padding-top: 0.25rem;
 }
+
+.header-background .img {
+  background-image: url("../img/logo_1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+  height: 15em;
+  margin-bottom: 2em;
+  margin-top: -2.7em;
+}
+
